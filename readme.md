@@ -1,5 +1,7 @@
 # Ranking API
 
+**FULL DISCLAIMER: I do not know if this code works. I ripped it right from the Hyperion system and put it together with a bad api router and hoped it works. I have not been able to test it.**
+
 Designed to be simple and easy to use, this system is a two route API allowing for ranking.
 
 ## Routes
